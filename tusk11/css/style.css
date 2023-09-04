@@ -1,0 +1,15 @@
+.carousel-caption{
+    top: 40%;
+    font-size: 20px;
+}
+@media only screan and (max-width:768px){
+
+    .carousel-caption{
+        top:11%;
+        font-size: 5px;
+    }
+    .carousel-control-prev-icon{
+
+        top: 10%;
+    }
+}
